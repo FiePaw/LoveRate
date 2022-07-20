@@ -2,7 +2,7 @@
 name: LoveRate
 main: FiePaw\LoveRate\Main
 author: Fiepaw
-version: 1.0
+version: 1.0.0
 api:
 - 4.6.0
 commands:
